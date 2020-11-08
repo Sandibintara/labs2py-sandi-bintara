@@ -10,7 +10,7 @@ Tugas Pertemuan 7 (Labspy2)<br>
 
 # List Tugas
 1. Latihan 3 [click here](#1-latihan-3)
-2. 
+2. Praktikum 2 [cick here](#2-praktikum-2-labspy2)
 ---
 
 # 1. Latihan 3
@@ -29,20 +29,23 @@ else:
 ```
 * Hasil running time
 ![1.2hasilrunlat3.PNG](foto/1.2hasilrunlat3.PNG)
-
-Hasilnya menyatakan Benar jika bilangan berisi angka berurutan atau berkelipatan
+  >Hasilnya menyatakan Benar jika bilangan berisi angka berurutan atau berkelipatan
 
 # 2. Praktikum (2 labspy2)
+<br><br>
 
-soal :
-
+`soal :`
+<br>
 ![soalpraktikum2.PNG](foto/soalpraktikum2.PNG)
+<br><br>
 
-hasil penulisan flowchart sebagai berikut dengan contoh indexs xangka1 = a dan seterusnya :
+* Penulisan flowchart sebagai berikut dengan contoh indexs xangka1 = a dan seterusnya :
+<br>
 ![flowchart.jpeg](foto/flowchart.jpeg)
+<br><br>
 
-
-Penulisan dengan code python :
+ * Penulisan dengan code python :
+<br>
 ```python
 # labs2py
 a = int(input("masukan nilai bilangan a ="))
@@ -58,10 +61,16 @@ elif (c>b) and (c>a):
 else :
     print(f"nilai a = {a},b = {b},c = {c} tidak ada nilai yang lebih besar dari masing masing angka")
 ```
-hasil eksekusi untuk input bilangan a=1, b=2, c=3 yang hasilnya c adalah bilangan terbesar dari inputan data tersebut :
+<br><br>
+
+>Hasil eksekusi untuk input bilangan a=1, b=2, c=3 yang hasilnya c adalah bilangan terbesar dari inputan data tersebut :
+
 ![lab2pyrunbenar.PNG](foto/lab2pyrunbenar.PNG)
 <br>
-hasil eksekusi untuk input bilangan a=1, b=1, c=1 yang hasilnya tidak ada bilangan yang besar dari masing-masing angka  :
-![lab2pyrunsalah.PNG](foto/lab2pyrunsalah.PNG)
-<br>
 
+>hasil eksekusi untuk input bilangan a=1, b=1, c=1 yang hasilnya tidak ada bilangan yang besar dari masing-masing angka  :
+
+![lab2pyrunsalah.PNG](foto/lab2pyrunsalah.PNG)
+<br><br>
+
+Terima Kasih sekian...
