@@ -35,8 +35,11 @@ else:
 <br><br>
 
 `soal :`
+
 <br>
+
 ![soalpraktikum2.PNG](foto/soalpraktikum2.PNG)
+
 <br><br>
 
 * Penulisan flowchart sebagai berikut dengan contoh indexs xangka1 = a dan seterusnya :
@@ -46,6 +49,7 @@ else:
 
  * Penulisan dengan code python :
 <br>
+
 ```python
 # labs2py
 a = int(input("masukan nilai bilangan a ="))
@@ -61,16 +65,19 @@ elif (c>b) and (c>a):
 else :
     print(f"nilai a = {a},b = {b},c = {c} tidak ada nilai yang lebih besar dari masing masing angka")
 ```
+
 <br><br>
 
 >Hasil eksekusi untuk input bilangan a=1, b=2, c=3 yang hasilnya c adalah bilangan terbesar dari inputan data tersebut :
 
 ![lab2pyrunbenar.PNG](foto/lab2pyrunbenar.PNG)
+
 <br>
 
 >hasil eksekusi untuk input bilangan a=1, b=1, c=1 yang hasilnya tidak ada bilangan yang besar dari masing-masing angka  :
 
 ![lab2pyrunsalah.PNG](foto/lab2pyrunsalah.PNG)
+
 <br><br>
 
 Terima Kasih sekian...
