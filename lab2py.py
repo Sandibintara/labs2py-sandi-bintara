@@ -5,8 +5,9 @@ c = int(input("masukan nilai bilangan c ="))
 
 if (a>b) and (a>c):
     print(f"Bilangan a = {a} lebih besar dari bilangan b dan c")
-elif (b>a) and (b>c)
+elif (b>a) and (b>c):
     print(f"Bilangan b = {b} lebih besar dari bilangan a dan c")
-elif (c>b) and (c>a)
+elif (c>b) and (c>a):
     print(f"Bilangan c = {c} lebih besar dari bilangan b dan a")
-    else (a!=b) and (a!=c) and (b!=c)
+else :
+    print(f"nilai a = {a},b = {b},c = {c} tidak ada nilai yang lebih besar dari masing masing angka")
